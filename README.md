@@ -13,10 +13,10 @@
 
 PL/SQLを使用して、Oracle Databaseで顧客情報を管理するプロシージャや関数を定義します。
 
-## 必要な環境
+## 環境
 
 - Oracle Database（ローカルもしくはクラウド）
-- VS Code（任意）
+- VS Code
 - Oracle Developer Tools for VS Code（拡張機能）
 
 ## セットアップ手順
